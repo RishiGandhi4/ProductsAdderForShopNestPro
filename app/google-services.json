@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528575986444",
+    "project_id": "shopnestpro-5d68f",
+    "storage_bucket": "shopnestpro-5d68f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528575986444:android:3e98f96611d83a807c2729",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYIrPGIJmKcu06ghmdEuOzKMH2eQfzKTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528575986444:android:10378cc049c477c87c2729",
+        "android_client_info": {
+          "package_name": "com.rishi.shopnestpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYIrPGIJmKcu06ghmdEuOzKMH2eQfzKTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
